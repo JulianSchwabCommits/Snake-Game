@@ -70,7 +70,6 @@ canvas {
     background-color: var(--color-primary-dark);
 }
 
-/* Mobile responsive styles */
 @media (max-width: 600px) {
     body {
         height: auto;
